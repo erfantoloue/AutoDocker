@@ -1,0 +1,17 @@
+receptor name:
+2afo1z.pdbqt
+
+exhaustiveness:
+16
+
+grid_spacing:
+0.375
+
+grid_ntps:
+126 126 126
+
+grid_center:
+-21.601 -4.702 20.787
+
+n_poses:
+1
