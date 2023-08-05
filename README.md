@@ -14,7 +14,7 @@ Download the code or simply run
 Convert and clean your PDB receptor structure using AutoDockTools into a PDBQT format and put it in the **receptor** directory. Mention its name in the `config.txt` file.
 
 ## Ligands
-Download your ligands structures from any chemical databases. The format should be in SDF format and all of them should be in the **ligands** directory. My recommendation is the [ZINC database](https://zinc.docking.org/) which is designed for molecular docking/virutal screening and the ligands are optimized as well.
+Download your ligands structures from any chemical databases. The format should be in SDF and all of them should be in the **ligands** directory. My recommendation is the [ZINC database](https://zinc.docking.org/) which is designed for molecular docking/virtual screening and the ligands are optimized as well.
 
 ## Docking parameters
 Use AutoDockTools software to determine the exact grid dimensions and grid center for your receptor. This is highly crucial as it will increase the accuracy of the results. <br> <br>
